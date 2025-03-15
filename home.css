@@ -204,9 +204,9 @@ html {
 .tutorials-main {
   width: 96%;
   margin: auto;
-  background: #0000008a;
+  background: #000000ab;
   border-radius: 0.5rem;
-  padding-block-end: 4rem;
+  padding-block-end: 5rem;
 }
 
 .heading {
@@ -214,7 +214,7 @@ html {
   font-size: 3rem;
   margin-left: 7rem;
   animation: slideInFromLeft 1.5s ease-in;
-  padding: 1rem;
+  padding: 30px;
 }
 
 .tutorials {
@@ -340,7 +340,7 @@ html {
 }
 
 .modal-content {
-  background-color: #ffffff8a;
+  background-color: #ffffffa2;
   margin: 10% auto;
   padding: 20px;
   border: 1px solid #888;
